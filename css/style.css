@@ -1,4 +1,4 @@
-ul#ulnav{
+ul#ulnav > li{
   list-style-type: none;
   display: inline;
 }
